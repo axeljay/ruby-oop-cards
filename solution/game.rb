@@ -18,6 +18,10 @@ class Game
     end
   end
 
+  def enter_name
+    @name
+  end
+
   def check_game
     @score
   end
